@@ -1,0 +1,1 @@
+window.AUTO_DAYS = {};
